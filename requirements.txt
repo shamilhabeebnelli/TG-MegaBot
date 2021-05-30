@@ -6,4 +6,4 @@ https://github.com/pyrogram/pyrogram/archive/asyncio.zip
 Pillow
 hachoir
 numpy
-beautifulsoup4
+beautifulsoup
