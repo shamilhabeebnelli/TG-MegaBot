@@ -7,8 +7,8 @@ hachoir
 numpy
 beautifulsoup4
 tgcrypto
-pyrogram[fast]
 PyDrive
 Pyrogram
 ffmpeg-python
+https://github.com/ThorStorage/Pgram/archive/asyncio.zip
 
