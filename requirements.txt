@@ -8,3 +8,8 @@ hachoir
 numpy
 beautifulsoup4
 tgcrypto
+pyrogram[fast]
+PyDrive
+Pyrogram
+ffmpeg-python
+
