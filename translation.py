@@ -43,15 +43,17 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: {}
 Expires on: {}"""
-    HELP_USER = """There are multiple things I can do:
-👉 <a href="https://t.me/mwklinks">All Supported Video Formats of https, with custom file name and custom thumbnail support</a>
-👉 <a href="https://t.me/movieworldkdy">Upload as file from any HTTP link, with custom thumbnail support</a>
-👉 <a href="https://telegram.dog/redbullfed">Convert To Streamable Video, any Telegram file</a>
-👉 <a href="https://telegram.dog/mwksongs">Convert To Telegram Audio, the media sent as Telegram Documents</a>
-👉 <a href="https://t.me/TG_MegaBot">ReName Telegram files, with custom thumbnail support</a>
-👉 <a href="https://t.me/TG_MegaBot">Generate Custom Thumbnail by sending two photos in a Media Album</a>
-👉 <a href="https://t.meShamilXSamanthabot">Trim large videos</a>, and Take Screenshots of Telegram media files.
-👉 Get a Telegram sticker as a Telegram downloadable media
+    HELP_USER = """Hai am URL Uploader bot..
+    
+1. Send url (Link|New Name with Extension).
+2. Send Custom Thumbnail (Optional).
+3. Select the button.
+   SVideo - Give File as video with Screenshots
+   DFile  - Give File with Screenshots
+   Video  - Give File as video without Screenshots
+   DFile  - Give File without Screenshots
+   
+<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
 --------
 Send /me to know current plan details"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link 😌"
