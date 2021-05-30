@@ -8,7 +8,6 @@ numpy
 beautifulsoup4
 tgcrypto
 PyDrive
-Pyrogram
 ffmpeg-python
 https://github.com/ThorStorage/Pgram/archive/asyncio.zip
 
